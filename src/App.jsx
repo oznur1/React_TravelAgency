@@ -6,6 +6,8 @@ import Gallery from "./pages/Gallery"
 import Contact from "./pages/Contact"
 import About from "./pages/About"
 import Login from "./pages/Login"
+import Footer from "./components/Footer"
+
 
 const App = () => {
   return (
@@ -18,7 +20,7 @@ const App = () => {
       <Route path='/about' element={<About/>}/>
       <Route path='/login' element={<Login/>}/>
     </Routes>
-    
+     <Footer/>
     </BrowserRouter>
   )
 }

@@ -2,6 +2,7 @@ import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
+
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -35,6 +36,7 @@ const Header = () => {
           <Link to="/about" onClick={() => setIsOpen(false)} className="block py-2 hover:bg-gray-200">About</Link>
         </div>
       )}
+
     </header>
   );
 };
