@@ -1,9 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # React_TravelAgency
+
+In this project, I developed a React-based travel application that helps users explore destinations, plan trips, and discover new places around the world. The app offers an interactive and user-friendly interface that allows users to browse travel destinations, view detailed information about each place, and get recommendations based on their preferences. Through dynamic data fetching, real-time updates, and a visually appealing design, this application provides an engaging travel experience. It also features integrated maps for location visualization and a simple booking process for users to easily plan their travels.
+
+
+![Uploading EkranKayd2025-05-11135155-ezgif.com-video-to-gif-converter.gif…]()
